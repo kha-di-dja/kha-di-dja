@@ -25,7 +25,7 @@ I also speak code in **Java, C, PHP**, and make things pretty with **HTML/CSS**.
 | Language | Level |
 |----------|--------|
 | 🇩🇿 Arabic | Native |
-| 🇫🇷 French | Fluent |
+| 🇫🇷 French | intermediate |
 | 🇬🇧 English | Fluent |
 
 ---
