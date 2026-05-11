@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Terchi Khadidja
+# It's Terchi Khadidja
 
 🎓 **Computer Science student** | 🎨 **Graphic Designer** | 💻 **Full-Stack Developer**
 
